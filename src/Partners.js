@@ -1,3 +1,5 @@
+// search bar results are incorrect, results show both name and prefix matches regardless of which bar you use
+
 import React, { Component } from 'react'
 import { Table, Image, Input } from 'semantic-ui-react'
 
