@@ -1,4 +1,5 @@
 // search bar results are incorrect, results show both name and prefix matches regardless of which bar you use
+// Ofsted rating column needs to be coloured based on rating
 
 import React, { Component } from 'react'
 import { Table, Image, Input } from 'semantic-ui-react'
